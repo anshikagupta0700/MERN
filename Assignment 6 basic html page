@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My first web page</title>
+
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>Hello! My name is Anshika.</p>
+    <h2>About Me</h2>
+    <p>I am a BCA Artificial Intelligence student.</p>
+    <button>Click Me</button>
+    
+</body>
+</html>
